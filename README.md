@@ -9,7 +9,7 @@
 <br>
 
 >
-I'm a Java developer from Poland who's __23 years__ old and has been coding for over __3 year__.
+I'm a Java developer from Poland who's __24 years__ old and has been coding for over __4 year__.
 I like opensource programs very much and I like learning about new technologies.
 <br>
 
