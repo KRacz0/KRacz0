@@ -1,7 +1,9 @@
-<a href="https://www.szpontcode.pl" target="_blank">
-    <img width="50%" align="right" alt="Banner" src="https://imgur.com/a/oliL6HY.png">
-</a>
-[Imgur](https://imgur.com/om3BWwl)
+<p align="center">
+  <a href="https://www.szpontcode.pl">
+    <img alt="SzpontCode banner bez tla" src="https://github.com/user-attachments/assets/e4cac298-8cbc-40cc-a4e3-323ea80bfc60" width="700">
+  </a>
+</p>
+
 <br><br>
 
 # Hello 👋
