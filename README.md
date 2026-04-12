@@ -1,5 +1,5 @@
 <a href="https://www.szpontcode.pl" target="_blank">
-    <img width="50%" align="right" alt="Banner" src="https://cdn.discordapp.com/attachments/1424447142470090792/1492914884499734609/SzpontCode_banner.png?ex=69dd10d5&is=69dbbf55&hm=5de08fd60d9f22ad480504952919216d9f43520e9ac7e46567746c2436d8aaa9.png">
+    <img width="50%" align="right" alt="Banner" src="https://imgur.com/a/oliL6HY.png">
 </a>
 
 <br><br>
@@ -9,7 +9,7 @@
 <br>
 
 >
-I'm a Java developer from Poland who's __24 years__ old and has been coding for over __4 year__.
+I'm a Java developer from Poland who's __25 years__ old and has been coding for over __5 year__.
 I like opensource programs very much and I like learning about new technologies.
 <br>
 
