@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.szpontcode.pl">
-    <img alt="SzpontCode banner bez tla" src="https://github.com/user-attachments/assets/e4cac298-8cbc-40cc-a4e3-323ea80bfc60" width="700">
+    <img alt="SzpontCode banner bez tla" src="https://github.com/user-attachments/assets/32843c0b-788f-4e5b-b54f-172e660e7f4f" width="700">
   </a>
 </p>
 
