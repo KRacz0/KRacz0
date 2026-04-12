@@ -1,5 +1,5 @@
-<a href="https://wakatime.com/@KRacz0" target="_blank">
-    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=KRacz0&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true">
+<a href="https://www.szpontcode.pl" target="_blank">
+    <img width="50%" align="right" alt="Banner" src="https://cdn.discordapp.com/attachments/1424447142470090792/1492914884499734609/SzpontCode_banner.png?ex=69dd10d5&is=69dbbf55&hm=5de08fd60d9f22ad480504952919216d9f43520e9ac7e46567746c2436d8aaa9.png">
 </a>
 
 <br><br>
